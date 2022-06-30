@@ -1,4 +1,4 @@
-Dimension reduction using entropy
+# Dimension reduction using entropy
 
 Problem: Is it possible to reduce the dataset complexity using simple entropy?
 
